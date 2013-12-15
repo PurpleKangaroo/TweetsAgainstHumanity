@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#A class of object that acts as a twitterbot.
+'''A class of object that acts as a twitterbot.'''
 
 
 class Twitterbot:
