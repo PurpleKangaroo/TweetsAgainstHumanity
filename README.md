@@ -8,7 +8,7 @@ The statistics about the number of retweets that any random combination of Cards
 [@PurpleKangaroo] (https://github.com/PurpleKangaroo) is a small organization of Lake Washington High School students who are interested in programing, many of whom are in the school's AP Computer Science class.
 
 ### Authors and Contributors
-Holt Maki(@HoltMaki)
+Holt Maki([@HoltMaki] (https://github.com/HoltMaki))
 
 ### Support or Contact
 purplekangs@gmail.com
