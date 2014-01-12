@@ -16,7 +16,7 @@ class qCardTypes(Enum):
         self.QUESTION
 
 
-class Tweet:
+class TweetCreator:
 
     def __init__(self):
         self = self
