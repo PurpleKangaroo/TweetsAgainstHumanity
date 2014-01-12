@@ -2,6 +2,7 @@ import os
 import sys
 #this class needs work
 #Use the Java PathFinder class as a model
+#TODO GET THIS CLASS FINISHED SO THAT THE PROGRAM CAN BE TESTED
 
 
 class PathFinder:
