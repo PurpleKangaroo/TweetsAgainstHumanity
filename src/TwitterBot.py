@@ -28,7 +28,7 @@ class Twitterbot:
     def __tweet(self, tweetStr):
         #dont know how to get this on twitter Ask Steve
 
-    def run(self):
+    def run(self):#ERROR caused by blank method above
         #Infinate loop
         while True:
             tweetStr = self.__getTweetStr()
